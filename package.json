@@ -1,0 +1,24 @@
+{
+  "name": "voting-by-google-sheets-database",
+  "version": "1.0.0",
+  "description": "Used Google Sheets as a Database",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-spreadsheet": "^3.3.0",
+    "next": "^12.3.1",
+    "react": "^17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.7",
+    "tailwindcss": "^3.1.8"
+  }
+}
